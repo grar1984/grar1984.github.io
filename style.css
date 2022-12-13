@@ -1,13 +1,8 @@
 .navbar {
   background-color: #4C4AE6;
-  width: 100%;
+  width: 378px;
   height: 75px;
-}
-
-
-.imagen {
   display: flex;
-  flex-direction: right;
   text-align: justify;
   justify-content: space-around;
 }
